@@ -6,7 +6,7 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 group-title="@[Pilihan]" tvg-logo = "https://mncvision.id/userfiles/image/channel/channel_82.png", MNC -= Syarifah Satya =-
+#EXTINF:-1 group-title="@[Pilihan]" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png", MNC -= Syarifah Satya =-
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -19,10 +19,10 @@ https://av-live-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #EXTINF:-1 group-title="@[Pilihan]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png", GTV -= Syarifah Satya =-
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="@[Pilihan]", TransTV -= Syarifah Satya =-
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://id.m.wikipedia.org/wiki/Trans_TV#/media/Berkas%3ATrans_TV_2013.svg" group-title="@[Pilihan]", TransTV -= Syarifah Satya =-
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="@[Pilihan]", Trans7 -= Syarifah Satya =-
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7.id" tvg-logo="https://id.m.wikipedia.org/wiki/Trans7#/media/Berkas%3ATrans_7_2013.svg" group-title="@[Pilihan]", Trans7 -= Syarifah Satya =-
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-name="" tvg-logo="https://ott-navigator.my.id/000143-356212-936581/logo/otto-mentari.png" group-title="@[Pilihan]",Mentari TV -= Syarifah Satya =-
@@ -35,11 +35,11 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 EXTINF:-1 tvg-id="horee" tvg-name="horee" tvg-logo="https://i.ibb.co/ZSdm4XF/horee.png" group-title="@[Pilihan]",Horee -= Syarifah Satya =-
 https://ott-navigator.my.id/000143-356212-936581/vidionodes2/master.m3u8?channel=6397
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="@[Pilihan]",SCTV -= Syarifah Satya =-
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" group-title="@[Pilihan]",SCTV -= Syarifah Satya =-
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 https://ott-navigator.my.id/000143-356212-936581/vidionodes/master.php?channel=204
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" ch-number="9" tvg-name="Indosiar.MACAN" tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="@[Pilihan]",Indosiar -= Syarifah Satya =-
+#EXTINF:-1 tvg-id="Indosiar.MACAN" ch-number="9" tvg-name="Indosiar.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="@[Pilihan]",Indosiar -= Syarifah Satya =-
 #EXTVLCOPT:http-user-agent=YouTV/1.5.12-prod.release+142d92f (Linux;Android 5.1.1) ExoPlayerLib/2.12.3
 https://ott-navigator.my.id/000143-356212-936581/int/master2.m3u8?id=indosiar
 
@@ -47,11 +47,11 @@ https://ott-navigator.my.id/000143-356212-936581/int/master2.m3u8?id=indosiar
 #EXTVLCOPT:http-user-agent=YouTV/1.5.12-prod.release+142d92f (Linux;Android 5.1.1) ExoPlayerLib/2.12.3
 https://ott-navigator.my.id/000143-356212-936581/int/master2.m3u8?id=net
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="@[Pilihan]",ANTV -= Syarifah Satya =-
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV.id" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="@[Pilihan]",ANTV -= Syarifah Satya =-
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 https://ott-navigator.my.id/000143-356212-936581/vidionodes/master.php?channel=782
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne.id" tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" group-title="@[Pilihan]",TVONE -= Syarifah Satya =-
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TVOne.id" tvg-logo="https://id.m.wikipedia.org/wiki/TvOne#/media/Berkas%3ATvOne_2023.svg" group-title="@[Pilihan]",TVONE -= Syarifah Satya =-
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 https://ott-navigator.my.id/000143-356212-936581/vidionodes/master.php?channel=783
 
@@ -63,7 +63,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-4
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://ott-navigator.my.id/rctiplus.php?id=inews
 
-#EXTINF:-1 tvg-logo="" group-title="@[Pilihan]",MAGNA CHANNEL -= Syarifah Satya =-
+#EXTINF:-1 tvg-logo="https://id.m.wikipedia.org/wiki/Berkas:MagnaChannel.png" group-title="@[Pilihan]",MAGNA CHANNEL -= Syarifah Satya =-
 http://103.167.167.5:8111/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-name="OChannel.id" tvg-logo="https://thumbor.prod.vidiocdn.com/tmmSRk4XtrU7uWrqXmu0m_22RSM=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/a11dc1.png" group-title="@[Pilihan]",Moji -= Syarifah Satya =-
